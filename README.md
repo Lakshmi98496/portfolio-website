@@ -37,6 +37,6 @@ This site showcases my background, skills, and the projects I’ve worked on so 
 
 ## 🔗 Live Demo
 
-Coming soon...
+https://lakshmi98496.github.io/portfolio-website/
 
 ---
